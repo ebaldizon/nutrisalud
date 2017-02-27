@@ -1,0 +1,5 @@
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Entities\bin\Debug\Entities.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Entities\bin\Debug\Entities.pdb
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Entities\obj\Debug\Entities.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Entities\obj\Debug\Entities.pdb

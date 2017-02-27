@@ -1,0 +1,10 @@
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Business\bin\Debug\Business.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Business\bin\Debug\Business.pdb
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Business\obj\Debug\Business.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Business\obj\Debug\Business.pdb
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Business\bin\Debug\Data.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Business\bin\Debug\Entities.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Business\bin\Debug\MySql.Data.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Business\bin\Debug\Data.pdb
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Business\bin\Debug\Entities.pdb

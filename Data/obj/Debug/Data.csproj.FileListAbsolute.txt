@@ -1,0 +1,9 @@
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Data\bin\Debug\Data.dll.config
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Data\bin\Debug\Data.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Data\bin\Debug\Data.pdb
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Data\bin\Debug\MySql.Data.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Data\obj\Debug\Data.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Data\obj\Debug\Data.pdb
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Data\bin\Debug\Entities.dll
+c:\users\emanuel\documents\visual studio 2015\Projects\ChatDesktop\Data\bin\Debug\Entities.pdb
